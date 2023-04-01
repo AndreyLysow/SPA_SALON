@@ -7,7 +7,8 @@
 ## Technologies used:
 * HTML
 * CSS
+* JS
 
 ---
 
-© [Andrey Lysov](https://github.com/AndreyLysow), 2023
+© [Andrey Lysov](https://github.com/AndreyLysow), 2023git
